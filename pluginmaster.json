@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere. This fork also saves edits made after picking an item from the in-game furnishing list.",
+    "Punchline": "House decorating made easy!",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.7.4.2",
+    "RepoUrl": "https://github.com/zaventh/BDTHPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://github.com/zaventh/BDTHPlugin/raw/main/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791938785,
+    "DownloadLinkInstall": "https://github.com/zaventh/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/zaventh/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/zaventh/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip"
+  }
+]
